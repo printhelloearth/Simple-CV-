@@ -48,5 +48,5 @@ The project is designed for interactive 3D modeling using natural hand movements
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hand-tracked-voxel-builder.git
-   cd hand-tracked-voxel-builder
+   git clone https://github.com/printhelloearth/Simple-CV-.git
+   cd Simple-CV-
